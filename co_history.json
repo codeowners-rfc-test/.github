@@ -1,1 +1,11 @@
-{}
+{
+  "developers": [
+    {"acc_name":"gabrielg2020",
+      "number_of_times_co": 2,
+      "repos": [
+        "testing-repo",
+        "facebook2"
+      ]
+    }
+  ]
+}
