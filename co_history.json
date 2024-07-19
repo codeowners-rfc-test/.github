@@ -1,1 +1,12 @@
-{"developers": [{"acc_name": "testacc03", "number_of_times_co": 7, "current_repo": "cool-project", "repos": ["testing-repo", "cool-project", "facebook2"]}, {"acc_name": "gabrielg2020", "number_of_times_co": 9, "current_repo": "facebook2", "repos": ["testing-repo", "cool-project", "facebook2"]}]}
+{
+  "developers": [
+    {"acc_name":"gabrielg2020",
+      "number_of_times_co": 2,
+      "current_repo": "facebook2",
+      "repos": [
+        "testing-repo",
+        "facebook2"
+      ]
+    }
+  ]
+}
